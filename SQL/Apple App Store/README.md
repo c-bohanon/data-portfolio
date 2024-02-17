@@ -1,0 +1,1 @@
+The data for this analysis was obtained from <a href='https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps'>here</a> and imported into PostgreSQL using the `csv_to_sql.py` file.
