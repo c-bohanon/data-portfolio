@@ -7,7 +7,7 @@ The goal of this project is to optimize the delivery of promotional offers to cu
     <li>What gets an offer viewed?</li>
     <li>How are different customers responding to offers and why?</li>
 </ul>
-<h4><b>Credit Card Customer Retention: An Ensemble Learning Analysis</b></h4>
+<h4><b><a href='https://nbviewer.org/github/c-bohanon/data-science-portfolio/blob/main/Data%20Science%20Solutions/Credit%20Card%20Customer%20Retention/credit_card_customer_retention.ipynb'>Credit Card Customer Retention: An Ensemble Learning Analysis</a></b></h4>
 The goal of this project is to investigate the underlying factors behind a common binary classification problem: customer churn. In order to do this, I modeled the data using a random forest and XGBoost, evaluated the models using cross-validation, used the best model to predict on unseen data, and analyzed the resulting feature importance plot to derive data-driven insights to the relevant business problem:
 <ul>
     <li>What are the characteristics of churning customers?</li>
