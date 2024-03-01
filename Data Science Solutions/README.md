@@ -1,4 +1,4 @@
-# Data Science Solutions
+# End-to-end Projects
 <p>The Jupyter Notebooks here are my data science projects aimed at utilizing data to create data-driven business recommendations. The processes involve importing the data and relevant libraries, data wrangling, data analysis and visualizations, feature engineering, and ends with a final data model that provides insights regarding the best solution for a particular problem.</p>
 <h4><b><a href='https://nbviewer.org/github/c-bohanon/data-science-portfolio/blob/main/Data%20Science%20Solutions/Starbucks%20Customer%20Segmentation/starbucks_customer_segmentation.ipynb'>Starbucks Customer Segmentation: A Clustering Analysis</a></b></h4>  
 The goal of this project is to optimize the delivery of promotional offers to customers by utilizing data analysis and Scikit-learn's K-Means clustering. There were 3 separate questions that needed to be answered for relevant strategies to be produced:
