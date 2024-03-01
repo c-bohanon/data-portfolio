@@ -12,3 +12,4 @@ The goal of this project is to investigate the underlying factors behind a commo
 <ul>
     <li>What are the characteristics of churning customers?</li>
 </ul>
+Note: The links in the Jupyter Notebooks are not useful within GitHub. Upon viewing, please consider pasting the link at <a href='https://nbviewer.org/'>nbviewer.org</a> to use the notebook's shortcuts.
