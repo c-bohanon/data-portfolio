@@ -20,10 +20,10 @@ I've curated a selection of projects in this portfolio that showcase my skills a
 
 **Tools:** SQL, Dune
 
-**Result:** Detailed and interactive visualization of financial and user information allowing the viewer to intuitively understand many aspects regarding the performance of the protocol on the Polygon blockchain for the year 2023.<br>
+**Result:** Detailed and interactive visualization of financial and user information allowing the viewer to intuitively understand many aspects regarding the performance of the protocol on the Polygon blockchain for the year 2023.
+The interactive version of this dashboard can be found [here](https://dune.com/c_bohanon/aave-v3-polygon-2023)
 ![](https://github.com/c-bohanon/data-portfolio/blob/main/Projects/AAVE%20v3%20Polygon%202023%20Dashboard/images/aave_v3_polygon_dashboard_1.png)
 ![](https://github.com/c-bohanon/data-portfolio/blob/main/Projects/AAVE%20v3%20Polygon%202023%20Dashboard/images/aave_v3_polygon_dashboard_2.png) 
-The interactive version of this dashboard can be found [here](https://dune.com/c_bohanon/aave-v3-polygon-2023)
 
 ### Starbucks Customer Segmentation
 
