@@ -1,0 +1,1 @@
+The data for this short data analysis project was obtained from [here](https://www.kaggle.com/datasets/mexwell/famous-paintings) and imported into PostgreSQL using the `csv_to_sql.py` file found in the `SQL` directory.
