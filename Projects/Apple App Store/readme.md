@@ -1,0 +1,1 @@
+The data for this short data analysis project was obtained from [here](https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps) and imported into PostgreSQL using the `csv_to_sql.py` file found in the `SQL` directory.
