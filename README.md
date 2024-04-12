@@ -1,2 +1,0 @@
-# Data Portfolio
-This repository contains end-to-end projects, examples of SQL, and my current certificates. The jupyter notebook projects encompass data cleaning, visualizations, feature engineering, and data modeling in order to generate data-driven solutions to specific business problems. Throughout this portfolio, I'm using PostgreSQL, and the most commonly used Python libraries are NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn.
