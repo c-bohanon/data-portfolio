@@ -14,4 +14,4 @@ In the project, I use [Dune](https://dune.com) to query blockchain data with SQL
 
 ![](images/aave_v3_polygon_dashboard_2.png)
 
-An interactive version of this dashboard can be found [here](https://dune.com/c_bohanon/aave-v3-polygon-2023)
+The interactive version of this dashboard can be found [here](https://dune.com/c_bohanon/aave-v3-polygon-2023)
