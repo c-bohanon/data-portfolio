@@ -4,7 +4,7 @@
 
 Hi, I'm Chris Bohanon and welcome to my portfolio. I am a data analyst with experience using various tools to collect, organize, and analyze data to inform business decisions. I believe that data is the new oil, and as a data analyst, I have the privilege of extracting valuable insights from it.
 
-I've curated a selection of projects in this portfolio that showcase my skills and expertise as a data analyst. These projects span various use cases, including predictive modeling, machine learning, data cleaning, and dashboard creation.
+I've curated a selection of projects in this portfolio that showcase my skills and expertise as a data analyst. These projects span various use cases, including data cleaning, dashboard creation, predictive modeling, and machine learning.
 
 ## Projects
 
