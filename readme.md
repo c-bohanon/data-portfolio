@@ -10,7 +10,7 @@ I've curated a selection of projects in this portfolio that showcase my skills a
 
 ### AAVE v3 Polygon 2023 Dashboard
 
-[SQL Query Directory](Projects/AAVE v3 Polygon 2023 Dashboard/queries)
+[SQL Query Directory](https://github.com/c-bohanon/data-portfolio/tree/main/Projects/AAVE%20v3%20Polygon%202023%20Dashboard/queries)
 
 **Purpose:** To create a visualization of performance metrics for the AAVE v3 Polygon pool for the year 2023.
 
@@ -21,12 +21,12 @@ I've curated a selection of projects in this portfolio that showcase my skills a
 **Tools:** SQL, Dune
 
 **Result:** Detailed and interactive visualization of financial and user information allowing the viewer to intuitively understand many aspects regarding the performance of the protocol on the Polygon blockchain for the year 2023.<br>
-![](Projects/AAVE v3 Polygon 2023 Dashboard/images/aave_v3_polygon_dashboard_1.png)
-![](Projects/AAVE v3 Polygon 2023 Dashboard/images/aave_v3_polygon_dashboard_2.png)
+![](https://github.com/c-bohanon/data-portfolio/blob/main/Projects/AAVE%20v3%20Polygon%202023%20Dashboard/images/aave_v3_polygon_dashboard_1.png)
+![](https://github.com/c-bohanon/data-portfolio/blob/main/Projects/AAVE%20v3%20Polygon%202023%20Dashboard/images/aave_v3_polygon_dashboard_2.png)
 
 ### Starbucks Customer Segmentation
 
-[Jupyter Notebook](Projects/Starbucks Customer Segmentation/starbucks_customer_segmentation.ipynb)
+[Jupyter Notebook](https://github.com/c-bohanon/data-portfolio/blob/main/Projects/Starbucks%20Customer%20Segmentation/starbucks_customer_segmentation.ipynb)
 
 **Purpose:** To enhance promotional strategies by analyzing past performance, identifying what customers respond to, and generating customer segments for more targeted promotional offers.
 
@@ -40,7 +40,7 @@ I've curated a selection of projects in this portfolio that showcase my skills a
 
 ### Credit Card Customer Retention
 
-[Jupyter Notebook](Projects/Credit Card Customer Retention/credit_card_customer_retention.ipynb)
+[Jupyter Notebook](https://github.com/c-bohanon/data-portfolio/blob/main/Projects/Credit%20Card%20Customer%20Retention/credit_card_customer_retention.ipynb)
 
 **Purpose:** To discover the reasons behind credit card customer attrition, develop a predictive model, and deliver recommendations designed to increase customer retention.
 
@@ -56,6 +56,6 @@ I've curated a selection of projects in this portfolio that showcase my skills a
 
 - SQL 
   
-  - [Apple App Store](Projects/Apple App Store/apple_store.sql): Analyzing data using SQL queries to explore and analyze app categories, identify trends, and provide insights for maximizing user ratings.
+  - [Apple App Store](https://github.com/c-bohanon/data-portfolio/blob/main/Projects/Apple%20App%20Store/apple_store.sql): Analyzing data using SQL queries to explore and analyze app categories, identify trends, and provide insights for maximizing user ratings.
   
-  - [Paintings Analysis](Projects/Paintings Analysis/paintings_queries.sql): Querying data from multiple tables and performing various analyses. Queries include joins, subqueries, and window functions to provide detailed insights into the art world. 
+  - [Paintings Analysis](https://github.com/c-bohanon/data-portfolio/blob/main/Projects/Paintings%20Analysis/paintings_queries.sql): Querying data from multiple tables and performing various analyses. Queries include joins, subqueries, and window functions to provide detailed insights into the art world. 
