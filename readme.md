@@ -6,6 +6,12 @@ Hi, I'm Chris Bohanon and welcome to my portfolio. I am a data analyst with expe
 
 I've curated a selection of projects in this portfolio that showcase my skills and expertise as a data analyst. These projects span various use cases, including data cleaning, dashboard creation, predictive modeling, and machine learning.
 
+## Certificates
+
+- Google Advanced Data Analytics Professional Certificate
+
+- Google Data Analytics Professional Certificate
+
 ## Projects
 
 ### AAVE v3 Polygon 2023 Dashboard
