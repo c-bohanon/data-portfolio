@@ -14,4 +14,5 @@
 <br>
 ![](https://github.com/c-bohanon/data-projects/blob/main/Projects/Web%20Scraping/Olympic%20Countries/assets/olympic_countries_screenshot_3.png)
 <br>
-https://github.com/c-bohanon/data-projects/assets/159719536/fbd3668d-1a8a-443f-b39e-24377099e721
+
+https://github.com/c-bohanon/data-projects/assets/159719536/c18534d7-0490-47ea-b00e-6c16de287a07
