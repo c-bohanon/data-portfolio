@@ -7,3 +7,9 @@
 **Skills:** Web scraping, data cleaning, data visualization.
 
 **Tools:** Python (Requests, Beautiful Soup, Pandas, SQLAlchemy), SQL (PostgreSQL), Microsoft Power BI.
+
+![](https://github.com/c-bohanon/data-projects/blob/main/Projects/Web%20Scraping/Olympic%20Countries/assets/olympic_countries_screenshot_1.png)
+<br>
+![](https://github.com/c-bohanon/data-projects/blob/main/Projects/Web%20Scraping/Olympic%20Countries/assets/olympic_countries_screenshot_2.png)
+<br>
+![](https://github.com/c-bohanon/data-projects/blob/main/Projects/Web%20Scraping/Olympic%20Countries/assets/olympic_countries_screenshot_3.png)
