@@ -1,16 +1,8 @@
-# Data Portfolio
-
 ## About
 
 Hi, I'm Chris Bohanon and welcome to my portfolio. I am a Data Analyst with experience using various tools to collect, organize, and analyze data to inform business decisions. I believe that data is the new oil, and as a data analyst, I have the privilege of extracting valuable insights from it.
 
 I've curated a selection of projects in this portfolio that showcase my skills and expertise as a data analyst. These projects span various use cases, including data cleaning, data transformation, data visualization, and data modeling.
-
-## Certificates
-
-- Google Advanced Data Analytics Professional Certificate
-
-- Google Data Analytics Professional Certificate
 
 ## Projects
 
@@ -22,14 +14,14 @@ I've curated a selection of projects in this portfolio that showcase my skills a
 
 **Description:** This project utilizes Dune, a platform for querying blockchain data. With this platform, I was able to use SQL queries to extract information regarding the individual tokens, user behaviors, and convert crypto financial data into USD. After this, I created a dashboard containing key performance metrics for the year 2023. As one of the largest protocols in the DeFi space, this can give the viewer a snapshot of the sector's performance as well as a time-series analysis for the year.
 
-**Skills:** Data Cleaning, Data Visualization, Advanced SQL (CTEs, Joins, Case Statements, etc.) 
+**Skills:** Data Cleaning, Data Visualization, Advanced SQL (CTEs, Joins, Case Statements, etc.)
 
 **Tools:** SQL, Dune
 
 **Result:** Detailed and interactive visualization of financial and user information allowing the viewer to intuitively understand many aspects regarding the performance of the protocol on the Polygon blockchain for the year 2023.
 The interactive version of this dashboard can be found [here](https://dune.com/c_bohanon/aave-v3-polygon-2023)
 ![](https://github.com/c-bohanon/data-portfolio/blob/main/Projects/AAVE%20v3%20Polygon%202023%20Dashboard/images/aave_v3_polygon_dashboard_1.png)
-![](https://github.com/c-bohanon/data-portfolio/blob/main/Projects/AAVE%20v3%20Polygon%202023%20Dashboard/images/aave_v3_polygon_dashboard_2.png) 
+![](https://github.com/c-bohanon/data-portfolio/blob/main/Projects/AAVE%20v3%20Polygon%202023%20Dashboard/images/aave_v3_polygon_dashboard_2.png)
 
 ### Starbucks Customer Segmentation
 
@@ -61,8 +53,13 @@ The interactive version of this dashboard can be found [here](https://dune.com/c
 
 ### Micro Analysis Projects
 
-- SQL 
-  
+- SQL
+
   - [Apple App Store](https://github.com/c-bohanon/data-portfolio/blob/main/Projects/Apple%20App%20Store/apple_store.sql): Analyzing data using SQL queries to explore and analyze app categories, identify trends, and provide insights for maximizing user ratings.
-  
-  - [Paintings Analysis](https://github.com/c-bohanon/data-portfolio/blob/main/Projects/Paintings%20Analysis/paintings_queries.sql): Querying data from multiple tables and performing various analyses. Queries include joins, subqueries, and window functions to provide detailed insights into the art world. 
+  - [Paintings Analysis](https://github.com/c-bohanon/data-portfolio/blob/main/Projects/Paintings%20Analysis/paintings_queries.sql): Querying data from multiple tables and performing various analyses. Queries include joins, subqueries, and window functions to provide detailed insights into the art world.
+
+## Certificates
+
+- Google Advanced Data Analytics Professional Certificate
+
+- Google Data Analytics Professional Certificate
