@@ -1,4 +1,4 @@
-## Projects
+# Projects
 
 ### Web Scraping
 
@@ -32,7 +32,7 @@
 
 - _SQL (PostgreSQL)_
 
-## Certificates
+# Certificates
 
 - Google Advanced Data Analytics Professional Certificate
 
