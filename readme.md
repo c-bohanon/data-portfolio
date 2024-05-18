@@ -32,7 +32,7 @@
 
 - _SQL (PostgreSQL)_
 
-# Certificates
+# Certifications
 
 - Google Advanced Data Analytics Professional Certificate
 
