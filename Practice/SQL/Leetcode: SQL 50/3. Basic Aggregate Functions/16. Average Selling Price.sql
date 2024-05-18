@@ -32,12 +32,26 @@ Each row of this table indicates the date, units, and product_id of each product
 Write a solution to find the average selling price for each product. average_price should be rounded to 2 decimal places.
 */
 
-SELECT
-    u.product_id,
-    ROUND(CAST(SUM(p.price * u.units) AS NUMERIC) / 
-        CAST(SUM(u.units) AS NUMERIC), 2) AS average_price
-FROM Prices p
-RIGHT JOIN UnitsSold u
-    ON p.product_id = u.product_id
-    AND u.purchase_date BETWEEN p.start_date AND p.end_date
-GROUP BY u.product_id;
+WITH cte AS (
+    SELECT 
+        p.product_id,
+        p.price,
+        u.purchase_date,
+        u.units
+    FROM Prices p
+    FULL OUTER JOIN UnitsSold u
+        ON p.product_id = u.product_id
+        AND u.purchase_date BETWEEN p.start_date AND p.end_date
+)
+SELECT 
+    product_id,
+    CASE
+        WHEN product_id IN (
+            SELECT product_id
+            FROM UnitsSold
+        )
+        THEN ROUND((SUM(price * units)::NUMERIC / SUM(units)::NUMERIC), 2)
+        ELSE 0
+        END AS average_price
+FROM cte
+GROUP BY product_id;
